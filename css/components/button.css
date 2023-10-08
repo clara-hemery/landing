@@ -1,0 +1,14 @@
+/*Button*/
+
+.btn-red {
+	background-color: #670108;
+	padding: 10px 15px;
+	border-radius: 20px;
+	color: white;
+	font-family: Helvetica, sans-serif;
+
+}
+
+.btn-red:hover {
+	background-color: black ;
+	color: white;
